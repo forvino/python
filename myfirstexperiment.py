@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-print("hello wolrd")
-=======
 import urllib.request
 from bs4 import BeautifulSoup
 
@@ -39,4 +36,4 @@ def main():
 
 if __name__ == '__main__':
     main()
->>>>>>> Initial commit + patch
+
